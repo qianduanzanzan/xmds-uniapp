@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "category": "/pages/category/index",
+    "user-info": "/pages/user/index",
+    "shop-cart": "/pages/shopCart/index",
+    "home": "/pages/home1/index"
+  }
+}

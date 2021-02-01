@@ -1,0 +1,10 @@
+.cu-form-group .title.data-v-9b4697c2 {
+  min-width: calc(4em + 15px);
+}
+.margin-top-10.data-v-9b4697c2 {
+  margin-top: 20rpx;
+}
+.margin-top-40.data-v-9b4697c2 {
+  margin-top: 100rpx;
+}
+

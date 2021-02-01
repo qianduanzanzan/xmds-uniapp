@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "uni-number-box": "/components/uni-number-box/uni-number-box"
+  }
+}

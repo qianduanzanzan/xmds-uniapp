@@ -1,0 +1,24 @@
+.user-backgroud.data-v-137d5072 {
+  height: 30vh;
+}
+.box.data-v-137d5072 {
+  width: 90vw;
+  margin: auto;
+  border-radius: 20rpx;
+}
+.mt15.data-v-137d5072 {
+  margin-top: 15vh;
+}
+.mt5.data-v-137d5072 {
+  margin-top: 2vh;
+}
+.border.data-v-137d5072 {
+  border: 1rpx solid #000;
+}
+.border-bottom.data-v-137d5072 {
+  border-bottom: 1px solid #555555;
+}
+.xl-icon.data-v-137d5072 {
+  font-size: 50rpx;
+}
+
