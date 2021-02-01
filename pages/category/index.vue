@@ -6,7 +6,7 @@
 				<block slot="content">分类</block>
 			</cu-custom>
 		</view> -->
-		<view class="fixed">
+		<view class="fixed" style="width: 100%;">
 			<view class="cu-bar bg-cyan search">
 				<view class="search-form radius">
 					<text class="cuIcon-search"></text>
