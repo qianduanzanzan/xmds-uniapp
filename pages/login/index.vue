@@ -16,11 +16,11 @@
 			<button class="cu-btn bg-red lg margin-top" @click="doLogin">登录</button>
 			<!-- <navigator :url="'/pages/index/index'" navigateTo
 			 style="animation: 'show 1s 1';width: 100%;"> -->
-			<button class="cu-btn bg-yellow lg margin-top-10" style="width: 100%;margin-left: 0;" @click="toHome">首页</button>
+			<!-- <button class="cu-btn bg-yellow lg margin-top-10" style="width: 100%;margin-left: 0;" @click="toHome">首页</button> -->
 			<!-- </navigator> -->
-			<navigator :url="'/pages/home/index'" navigateTo style="animation: 'show 1s 1';width: 100%;">
+			<!-- <navigator :url="'/pages/home/index'" navigateTo style="animation: 'show 1s 1';width: 100%;"> -->
 				<button class="cu-btn bg-yellow lg margin-top-10" style="width: 100%;margin-left: 0;">注册</button>
-			</navigator>
+			<!-- </navigator> -->
 		</view>
 	</view>
 </template>
@@ -57,7 +57,7 @@
 						uni.setStorageSync('token', res.data.token)
 						this.$store.commit('user/SET_USERINFO', res.data)
 						uni.navigateTo({
-							url: "/pages/user/index"
+							url: "/pages/index/index"
 						})
 					}
 				})
